@@ -1,0 +1,1 @@
+# VsServicos.Worker.Publishes
